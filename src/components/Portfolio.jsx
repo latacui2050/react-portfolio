@@ -1,9 +1,9 @@
-import culinaryimage from '../assets/images/culinaryPic.png';
-import weatherimage from '../assets/images/weatherPic.png';
-import quizimage from '../assets/images/quizPic.png';
-import moviemiximage from '../assets/images/moviemixPic.png';
-import portfolioimage from '../assets/images/firstportfolioPic.png';
-import skillmagnetimage from '../assets/images/skillmagnet.png';
+import culinaryimage from '../assets/images/';
+import weatherimage from '../assets/images/';
+import quizimage from '../assets/images/';
+import moviemiximage from '../assets/images/';
+import portfolioimage from '../assets/images/';
+import skillmagnetimage from '../assets/images/';
 
 const projects = [
     {
@@ -15,32 +15,32 @@ const projects = [
     {
         title: "SkillMagnet",
         image: skillmagnetimage,
-        github: "https://github.com/quin-tech/full-stack-service-app",
+        github: "",
         site: "https://full-stack-service-app.onrender.com/"
     },
     {
         title: "Timed Quiz",
         image: quizimage,
-        github: "https://github.com/maddieeckstrom/API-timed-coding-quiz",
-        site: "https://maddieeckstrom.github.io/API-timed-coding-quiz/"
+        github: "",
+        site: ""
     },
     {
         title: "Movie Mix & Sip",
         image: moviemiximage,
-        github: "https://github.com/ucb-allstars-project-1/movie-cocktail-combo",
+        github: "",
         site: "https://ucb-allstars-project-1.github.io/movie-cocktail-combo/"
     },
     {
         title: "My First Portfolio",
         image: portfolioimage,
-        github: "https://github.com/maddieeckstrom/Madison_super_portfolio",
-        site: "https://maddieeckstrom.github.io/Madison_super_portfolio/"
+        github: "",
+        site: ""
     },
     {
         title: "Weather Forecast",
         image: weatherimage,
-        github: "https://github.com/maddieeckstrom/weather-forecast-dashboard",
-        site: "https://maddieeckstrom.github.io/weather-forecast-dashboard//"
+        github: "",
+        site: ""
     }
 ]
 

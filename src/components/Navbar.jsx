@@ -1,7 +1,7 @@
 export default function Navbar({currentPage, handlePageChange}) {
     return (
         <nav className="navbar">
-            <h1>madison eckstrom</h1>
+            <h1>Wenmo Cui</h1>
             <div className="navbarLinks">
                 <a 
                     href="#AboutMe"
